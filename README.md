@@ -1,3 +1,2 @@
-# portfolio
-
-SOME NEW TEXT
+# Портфолио
+# Портфолио для курса stepik.org "Автоматизация тестирования с помощью Selenium и Python"
